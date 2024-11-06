@@ -4,7 +4,7 @@
 Labs Computer Vision is a project dedicated to the exploration and implementation of computer vision techniques. This project contains various labs, examples, and demonstrations of image processing algorithms
 ## Project Structure
 - lab1/ -  Includes the basic principles of camera calibration, using images of a grid or checkerboard to correct radial and tangential distortion errors, and to visualize the effect of calibration on images.
-- lab2/: ....
+- lab2/- focuses on fundamental concepts of epipolar geometry
 - lab3/: ....
 ## Prerequisites
 
