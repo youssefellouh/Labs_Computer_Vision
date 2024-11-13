@@ -46,7 +46,7 @@ def msinc(sinx, x):
         return (1 - sinx / x) / x /x
 
 def deg2rad(angle_deg):
-    """! Convert an angle from degrees to radians.
+    """Convert an angle from degrees to radians.
     @param[in] angle_deg  Angle in degrees.
     @return  Corresponding value in radians.
     """
